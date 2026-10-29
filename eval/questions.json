@@ -1,0 +1,21 @@
+[
+  {
+    "_note": "TEMPLATE. Delete this entry and write 30-40 real questions from YOUR PDFs. company must match the filename prefix (TCS_2024.pdf -> TCS). expected_pages = PDF page number(s) where the answer lives. answer_keywords = strings that must all appear in a correct answer (numbers, names).",
+    "question": "",
+    "company": "",
+    "expected_pages": [],
+    "answer_keywords": []
+  },
+  {
+    "question": "What was the total revenue of TCS in FY2024?",
+    "company": "TCS",
+    "expected_pages": [12],
+    "answer_keywords": ["240,893"]
+  },
+  {
+    "question": "Who is the Chairman of Infosys?",
+    "company": "Infosys",
+    "expected_pages": [4],
+    "answer_keywords": ["Nilekani"]
+  }
+]

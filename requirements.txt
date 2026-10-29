@@ -1,0 +1,10 @@
+# torch is preinstalled on Colab; install it yourself locally if needed
+pymupdf
+sentence-transformers
+faiss-cpu
+transformers>=4.44
+accelerate
+bitsandbytes
+gradio
+pandas
+tabulate
